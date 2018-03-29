@@ -48,7 +48,7 @@ The scope of this book is large. This is because the problems that it tries to s
 As mentioned in our introduction, this topic has already been explored by a number of economists. It will be our role therefore to review, synthesise, and build on their existing viewpoints. However we argue that the tax and welfare system has consequences outside of the immediate scope of tax and welfare itself, i.e. that there are consequences on a societal scale. We are also interested in exploring these wider outcomes of choices over tax and welfare system design.
 
 1.	What are the goals of the economy? How do we understand that the economy works?
-2.	What are the general principles of tax? Why/How/Who/Where/What/How much should we tax?
+	.	What are the general principles of tax? Why/How/Who/Where/What/How much should we tax?
 3. What property rights, taxation and welfare system should exist to ensure that our economy produces social well being? 
 4. How do we set up a tax and welfare system that is not subject to avoidance, evasion and fraud?
 5. How can we transition from the existing system in a fair and politically feasible manner?
@@ -81,7 +81,7 @@ According to [Ref???] there are ten components of a successful tax reform.
 2. Taxation Theory: Taking account of the theory of Optimal Taxation (both it's classical formulation and the recent additions), and being Externality Correcting
 3. Attractiveness of proposals to politicians and voters: Make sure it is attractive to voters, to specific politician types, and there are specific policy pathways
 4. Produce Beneficial Results: Reiterate challenges and their importance.
-Empirical evidence, for example: Effect of incentives at work, Interaction between work, experience, education and salary, 	Effect of environmental taxes on damage, Effect of health taxes on health outcomes, Effect of taxes on finance
+	mpirical evidence, for example: Effect of incentives at work, Interaction between work, experience, education and salary, 	Effect of environmental taxes on damage, Effect of health taxes on health outcomes, Effect of taxes on finance
 5. Political realities: Interest of voter groups, Folk justice, Interest of powerful groups
 6. Institutional inertia: Capture proposals for overcoming this given we haven't just had a war. 
 7. Local knowledge: Legal nature of tax system: Specific problems of UK system tax and economy (regional balances, dysfunctional house prices etc.)
@@ -103,26 +103,26 @@ There are major challenges facing the UK and the world, principally: environment
 We make the case that these problems are due to failure to recognise fundamental economic ideas: market power and externalities. Market power suggests that some people get a higher economic return than the value they create because they ‘corner the market’. Externalities are that some economic agents damage others without paying for what they do. 
 This is how to make tax policy work for the good of the country:
 -	We should Tax environmental and health bads we want to go away 
--	We should tax scarce resources such as valuable urban land and oil which can’t go away (e.g. land values), 
--	We should tax those that make a large enduring financial surplus  (e.g. corporation/income tax), especially those that at the expense of others. Thus we in effect redistribute some or all of the surplus of those individuals, companies or geographical areas who are gaining financial assets
+		We should tax scarce resources such as valuable urban land and oil which can’t go away (e.g. land values), 
+		We should tax those that make a large enduring financial surplus  (e.g. corporation/income tax), especially those that at the expense of others. Thus we in effect redistribute some or all of the surplus of those individuals, companies or geographical areas who are gaining financial assets
 
 In exchange we can reduce taxes on activities which are economically productive, so that people are encouraged to do them.
 Also through the social security system:
 -	We should care for those who need special protection.  
--	We should encourage activity contributing to the common good.
--	We should give everyone a fair share of the returns of economic success.
+		We should encourage activity contributing to the common good.
+		We should give everyone a fair share of the returns of economic success.
 In so doing, we encourage that which is beneficial to the country and the world and build a stronger, healthier country in a better world.
 
-We sauy tax should be practical beneficial and fair. This corresponds to how much should be taxed, what should be taxed, and who should be taxed. Whereas the distinction between functional and non-functional corresponded to why we should tax versus how we should tax. The final question is where should we tax. This was dealt with in a separate slide discussing the geographical basis of tax.
+We say tax should be practical beneficial and fair. This corresponds to how much should be taxed, what should be taxed, and who should be taxed. Whereas the distinction between functional and non-functional corresponded to why we should tax versus how we should tax. The final question is where should we tax. This was dealt with in a separate slide discussing the geographical basis of tax.
 
 We propose the following measures:
 1.	Environmental Taxes that ensure polluters pay for damage they cause to others and to the environment
-2.	Changes to Income Tax to simplify it
-3.	Introducing Wealth Taxes that can’t be avoided including
+	.	Changes to Income Tax to simplify it
+	.	Introducing Wealth Taxes that can’t be avoided including
   a.	Land value tax to prevent house price speculation 
   b.	Changes to Corporation Tax so that companies can’t avoid it – by direct taxation of dividends and retained earnings
   c.	Financial Taxes to reduce debt, on UK based lending, and a tax on money balances above some limit
-4.	Welfare Reforms such as a citizen’s dividend and an integrated skills development and educational work programme
+	.	Welfare Reforms such as a citizen’s dividend and an integrated skills development and educational work programme
 
 # Chapter 1f: Outline of the rest of the book
 
@@ -337,33 +337,33 @@ To fix the problems, this book proposes the following principles
 - Incentives are important. The tax system is largely a system of incentives and disincentives which influence people’s behaviour. In some ways, the current system incentivises activities we don’t want and disincentives activities we do want. We have to change the incentives which are built into the current system.
 - It is important to distinguish between classes of activity which benefit the common good and those that do not:
   –	Good: more productivity, more people being able to do things which their interest and skills enable them to do, more work which benefits society, more efficient use of resources, more even spread of wealth, more fairness, more balance/sustainability (e.g. trade balance, environmental balance).
-–	Bad: unproductive wealth, destruction of natural wealth, agents not paying the costs of their economic behaviour (externalities), harmful activities, extreme inequality.
-–	Harmful Activities: We should tax activities that are harmful to others or to the natural environment. This will both reduce/discourage them and make them ‘internalise’ the harm done by the activities. It will help create a fair playing field for less harmful competitors. There's two sorts of harmful activities:
-–	Activities that harm others or the environment: in these cases activities should either be banned (now or in a forward-looking sense)
+		Bad: unproductive wealth, destruction of natural wealth, agents not paying the costs of their economic behaviour (externalities), harmful activities, extreme inequality.
+		Harmful Activities: We should tax activities that are harmful to others or to the natural environment. This will both reduce/discourage them and make them ‘internalise’ the harm done by the activities. It will help create a fair playing field for less harmful competitors. There's two sorts of harmful activities:
+		Activities that harm others or the environment: in these cases activities should either be banned (now or in a forward-looking sense)
 ## Justified and Unjustified Wealth
 -	It is important to distinguish between justified and unjustified Wealth
   -	There is justified wealth and unjustified wealth. Justified wealth consists in wealth that is derived from work, the creation of some product of value (or at least wanted) in society - the provision of goods and services. Unjustified wealth consists in effectively extracting the wealth of others. The wealth is not acquired by the addition of anything valuable to the economy.
 - Land has particular characteristics
   - The control of land (and scarce resources) allows people to generate wealth, and benefit from the work of others. It is not fair that private landowners are able to privately reserve the return from land because it is a common good.
--	It is right that citizens get some benefit from common goods
--	There are multiple advantages to taxing land. Eg hard to avoid/evade, doesn’t disappear when taxed, discourages land banking, encourages productive and efficient use of land, compensates for unearned windfall benefits to landowners.
+		It is right that citizens get some benefit from common goods
+		There are multiple advantages to taxing land. Eg hard to avoid/evade, doesn’t disappear when taxed, discourages land banking, encourages productive and efficient use of land, compensates for unearned windfall benefits to landowners.
 
--	The tax system is overly complex.
+		The tax system is overly complex.
   - A simpler system would increase confidence in the system, make avoidance/evasion more difficult and increase compliance.
   - Redistribution: Some degree of redistribution of wealth is right and fair.
   - We redistribute so that people with less can have a fair chance in life.
-  -	A civilised society would not allow people to fall below a certain living standard. It is right to provide a safety net.
+  		A civilised society would not allow people to fall below a certain living standard. It is right to provide a safety net.
 
 # Welfare and Benefits
 - The 'means testing' aspect of benefit provision (which is taking money off people as they get richer) can probably be best integrated into the tax system, both to reduce admin and smooth the benefit-withdrawal rate.
--	The 'sensitivity to need' aspect needs to be considered too
--	Housing: Indirect effect of progressive income tax is to flatten demand for housing, allow normal people to afford larger living space.
--	Disability/Carers should be considered
--	Work-suitability is needed too.
+		The 'sensitivity to need' aspect needs to be considered too
+		Housing: Indirect effect of progressive income tax is to flatten demand for housing, allow normal people to afford larger living space.
+		Disability/Carers should be considered
+		Work-suitability is needed too.
 # Productive and Unproductive Activity
 We can split activity into two types. 
 -	Activity that is focused on satisfying needs in the present and that which is concerned with accumulating wealth to satisfy needs in the future. Productive activity is that which satisfies genuine needs and/or that which accumulates or protects genuine wealth. We can therefore define productive activity as that which increases wealth in aggregate or satisfies some particular need without harming the needs of others. 
--	So, that which is productive at an individual level can sometimes be destructive at a national level, similarly those things that are productive at a national level can sometimes be destructive at a global level. In short, we can suggest that a productive activity is that which satisfies genuine needs or accumulate wealth in an aggregate way for a national or global perspective.
+		So, that which is productive at an individual level can sometimes be destructive at a national level, similarly those things that are productive at a national level can sometimes be destructive at a global level. In short, we can suggest that a productive activity is that which satisfies genuine needs or accumulate wealth in an aggregate way for a national or global perspective.
 
 
 
@@ -425,7 +425,7 @@ What should be taxed?
 Financial surpluses (e.g.(net) imports, profits, incomes over some threshold) and luxury expenditures whose demand is insensitive to price. We should tax or redistribute some or all of the surplus of those individuals, companies or geographical areas who are gaining financial assets
 The unearned increment on scarce resources such as valuable urban land and oil: things that are fixed or limited in supply, monopolised (e.g. land, fossil fuels, endangered fish)
 Environmental and health bads i.e. activities that damage our common space (e.g. fossil fuels, other pollution, road congestion, ugly buildings)
- 
+
 # Chapter 9: How Does Change Happen?
 
 But how do we change a system like tax? The tax system seems to change through top down directives, through the intervention of the chancellor of the exchequer of the time. This approach means that the tax system often changes with the agenda of 'budget day' announcements. Of course,the secrecy around these announcements is to a degree necessary: if agents know how the tax system is going to change, then they may be able to take steps to avoid the taxes. A better approach would be to conduct a strategic tax review, much in a similar way to the strategic defence review.
@@ -560,18 +560,18 @@ Overall, this system of measures deals with a major challenges facing our times.
 
 ## Summary
 -	Land value tax to prevent house price speculation
--	a new concept, land value mortgages; 
--	carbon tax funding a citizen’s dividend,
--	Other environmental Taxes that ensure polluters pay for damage they cause to others and to the environment
--	Changes to Income Tax to simplify it deductibility of income tax. Such a system would tackle our critical issues such as housing, environmental impact, inequality
--	Changes to Corporation Tax so that companies can’t avoid it – by direct taxation of dividends and retained earnings
--	Financial Taxes to reduce debt, such as UK based lending, and a tax on money balances above some limit
--	What social security should there be?
+		a new concept, land value mortgages; 
+		carbon tax funding a citizen’s dividend,
+		Other environmental Taxes that ensure polluters pay for damage they cause to others and to the environment
+		Changes to Income Tax to simplify it deductibility of income tax. Such a system would tackle our critical issues such as housing, environmental impact, inequality
+		Changes to Corporation Tax so that companies can’t avoid it – by direct taxation of dividends and retained earnings
+		Financial Taxes to reduce debt, such as UK based lending, and a tax on money balances above some limit
+		What social security should there be?
   -	An unconditional per capita payment
-  -	benefits for those who need them (as at present)
-  -	benefits for those who develop or contribute: guaranteed combined work/training
-  -	A an integrated skills development and educational work programme
-  
+  		benefits for those who need them (as at present)
+  		benefits for those who develop or contribute: guaranteed combined work/training
+  		A an integrated skills development and educational work programme
+
 By creating a more simple and concrete system, we can also tackle the avoidance and evasion that bedevils the system
 
 
