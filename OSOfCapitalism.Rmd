@@ -16,12 +16,9 @@ knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
 options(htmltools.dir.version = FALSE)
 ```
 
-# Scope
-This version of the book does not intend to solve all problems.
-
 *\[I: INTRODUCTION\]*
 
-# Chapter 1: The Operating System of Capitalism
+# Chapter 1a: The Operating System of Capitalism
 This is a book about transforming the operating system of the economy so that it better meets the needs of society.
 
 Just like your smartphone might be based on Android or Apple's iOS, so too our economy has an operating system. This operating system can be principled, simple and operate smoothly. Conversely it can be unprincipled, complicated and operate badly. The operating system determines the kind of behaviours that are rewarded and those that are not. This in turn determines what the outcomes of the system will be. In short, the nature of the operating system of capitalism determines whether we live in a fair society that is increasing in prosperity and protecting its environment, or an unfair society that is getting poorer and destroying its environment.
@@ -40,8 +37,10 @@ Economists would say that we should tax *externalities* and *economic rent*. In 
 
 Yet the progress towards this ideal tax system has been painfully slow, and in many cases has moved in the opposite direction. **<u>Need a reference here/justification=</u> ** In following chapters we will explain the key principles needed as the foundation for functional and fair taxation, consider the motivation for the reform of our current tax system, and discuss the barriers to change that hamper this progress. 
 
-~~ First we will give some signposts: to the questions studied in the book, to the fundamental theses of the book which are to be proven, disproven or so to speak 'limited', and to the structure of the rest of the book. ~~
+~~ First in the remainder of the introductory part we will give some signposts: to the questions studied in the book, to the fundamental theses of the book which are to be proven, disproven or so to speak 'limited', and to the structure of the rest of the book. Those interested in the 'narrative' of the book can skip the next three chapters, but those interested in the book from a technical perspective, please read on ~~
 
+
+# Chapter 1b: The Ten Questions We Ask 
 ## Research Questions: Five tax/welfare questions
 
 The scope of this book is large. This is because the problems that it tries to solve are also large.  Its overarching purpose is to outline what constitutes a 'good' tax and welfare system. Tax and welfare is related to property rights. Thus we ask: 
@@ -64,8 +63,8 @@ We identify five key challenges of the current UK system below. Associated with 
 4. Wealth creation and finance: Why is there so much debt? What structure of money and financial system leads to a wealthy society?
 5. Automation: Can society as a whole, including everyday people, benefit most from increased automation of work? How?
 
-
-## Theses of the Book
+# Chapter 1c: The Theses of the Book
+This section defines the six theses we intend to make:
 1. Capitalism can be a system of making the poor richer or the rich richer. It depends on the treatment of monopoly
 2. Monopolies can exist both because of fixed supply of underlying factors (like land: heterogeous, limited and with property rights), through economies of scale, and through cartels.
 Such tendencies to monopoly exist: e.g. economies of scale. 
@@ -75,11 +74,10 @@ Such tendencies to monopoly exist: e.g. economies of scale.
 5. Political realism involves increasing desire for good policy and eliminating barriers especially the perception that some groups will be worse off.
 6. Public goods are as or more important than private goods.
 
-## Reform Requirements
-
+# Chapter 1d: Requirements of Successful Tax Reform
 According to [Ref???] there are ten components of a successful tax reform.
 
-1. Administrative realities: Including the Existing tax system, maing  taxes easily calculable, and if possible making the system as automatic as possible.
+1. Administrative realities: Including the Existing tax system, maing  taxes easily calculable, and if possible making the system as automatic as possible. [Covered in Chapter N]
 2. Taxation Theory: Taking account of the theory of Optimal Taxation (both it's classical formulation and the recent additions), and being Externality Correcting
 3. Attractiveness of proposals to politicians and voters: Make sure it is attractive to voters, to specific politician types, and there are specific policy pathways
 4. Produce Beneficial Results: Reiterate challenges and their importance.
@@ -92,8 +90,41 @@ Empirical evidence, for example: Effect of incentives at work, Interaction betwe
 10. Robustness to changing times: Changing nature of work
 
 Malcolm Torry distinguishes between different types of 'realism'.
+[Add these here]
 
-## Outline of the Book
+# Chapter 1e: Summary of the Book
+
+We want to build a better, stronger, healthier, more equitable and wealthier Britain. Though we seem to be in a time of change and uncertainty, we are also in a time of opportunity. A few key changes to the tax system could have wide ranging positive effects. 
+We argue for a tax system that is practical beneficial and fair and that takes account of this economics.
+Tax is needed to pay for common services - it’s the compulsory component of that which we send to government. More broadly, taxes also have macroeconomic reasons, they can stabilise the economy, and they validate the money we use.
+The tax and social security system we have at the moment in the UK is not fit for purpose. The tax system is one of the longest in the world. Our social security system gives no-one respect, creates a ‘welfare trap’ and is difficult and unpredictable to deal with.
+It can be improved a lot so long as we create a principled approach. 
+There are major challenges facing the UK and the world, principally: environmental damage, , unaffordable housing, finance serving the rich not the real economy, unbalanced trade, , increasing automation,
+We make the case that these problems are due to failure to recognise fundamental economic ideas: market power and externalities. Market power suggests that some people get a higher economic return than the value they create because they ‘corner the market’. Externalities are that some economic agents damage others without paying for what they do. 
+This is how to make tax policy work for the good of the country:
+-	We should Tax environmental and health bads we want to go away 
+-	We should tax scarce resources such as valuable urban land and oil which can’t go away (e.g. land values), 
+-	We should tax those that make a large enduring financial surplus  (e.g. corporation/income tax), especially those that at the expense of others. Thus we in effect redistribute some or all of the surplus of those individuals, companies or geographical areas who are gaining financial assets
+
+In exchange we can reduce taxes on activities which are economically productive, so that people are encouraged to do them.
+Also through the social security system:
+-	We should care for those who need special protection.  
+-	We should encourage activity contributing to the common good.
+-	We should give everyone a fair share of the returns of economic success.
+In so doing, we encourage that which is beneficial to the country and the world and build a stronger, healthier country in a better world.
+
+We sauy tax should be practical beneficial and fair. This corresponds to how much should be taxed, what should be taxed, and who should be taxed. Whereas the distinction between functional and non-functional corresponded to why we should tax versus how we should tax. The final question is where should we tax. This was dealt with in a separate slide discussing the geographical basis of tax.
+
+We propose the following measures:
+1.	Environmental Taxes that ensure polluters pay for damage they cause to others and to the environment
+2.	Changes to Income Tax to simplify it
+3.	Introducing Wealth Taxes that can’t be avoided including
+  a.	Land value tax to prevent house price speculation 
+  b.	Changes to Corporation Tax so that companies can’t avoid it – by direct taxation of dividends and retained earnings
+  c.	Financial Taxes to reduce debt, on UK based lending, and a tax on money balances above some limit
+4.	Welfare Reforms such as a citizen’s dividend and an integrated skills development and educational work programme
+
+# Chapter 1f: Outline of the rest of the book
 
 First we lay out our framework. We try to answer the question of why societies apply taxes, and the purposes to which this burden can be applied. We begin by considering the Beveridge report and the rather groundbreaking proposals it made for the creation of a welfare state. Following this, we explore different options for paying for public services: taxation, borrowing, printing money, community volunteering, and different forms of property ownership. We also look at economic justice in relation to tax theory and the social contract for tax and welfare. 
 
@@ -253,6 +284,8 @@ Time and space interact with real estate. Since land is an infinitely lived mono
 
 Life is the third class of elements missing in mainstream economics. Living systems are fundamentally different from non-living systems. Living systems are typically in a state of homeostasis rather than equilibrium. This is a steady state which requires active maintenance and energy input.  For example,  it takes energy to maintain a constant body temperature of 36.7 Celsius. Biological systems also require certain environmental conditions and cannot exist beyond certain ecological limits. Ecological economics considers that human economy is embedded in nature and it argues for a sustainable economy that would also exist in a steady state ^[This eludes to an ecological / steady state economics approach. See: http://www.steadystate.org/discover/definition/].
 
+
+
 # Chapter 6: Reforming the British economy
 
 The responsibility of the British government is not only limited to the security of the realm and for public services. It also has a responsibility for ensuring that the UK economy is a guide for others to follow. How well are we doing? Well, there are aspects that are going well, and those that are doing less so. 
@@ -298,6 +331,43 @@ Another area where the tax system could be used to benefit society is with the e
 
 At present the current benefit system involves various 'benefit traps' and 'poverty traps'. A 'benefit trap' is a situation where it is better to stay on benefits than to take work, due to the perverse incentives built into the system. Because benefits are 'means- tested', when you gain work, you often lose equivalent benefits. Furthermore, poor people are often trapped in cycles of dependency. They have low skills and don't have the time and money to invest in themselves to improve matters. There may be children involved, in which case the high costs of childcare can be another factor. Drugs, abusive relationships, or crime can be other factors. When all of this is taken into account, it results in a dysfunctional benefit system that is confusing, unwieldy, unpredictable, and does not achieve its goal of supporting people into work.
 
+# Chapter N: Economic Principles of Tax Reform
+To fix the problems, this book proposes the following principles
+## Incentives and Damaging Activities
+- Incentives are important. The tax system is largely a system of incentives and disincentives which influence people’s behaviour. In some ways, the current system incentivises activities we don’t want and disincentives activities we do want. We have to change the incentives which are built into the current system.
+- It is important to distinguish between classes of activity which benefit the common good and those that do not:
+  –	Good: more productivity, more people being able to do things which their interest and skills enable them to do, more work which benefits society, more efficient use of resources, more even spread of wealth, more fairness, more balance/sustainability (e.g. trade balance, environmental balance).
+–	Bad: unproductive wealth, destruction of natural wealth, agents not paying the costs of their economic behaviour (externalities), harmful activities, extreme inequality.
+–	Harmful Activities: We should tax activities that are harmful to others or to the natural environment. This will both reduce/discourage them and make them ‘internalise’ the harm done by the activities. It will help create a fair playing field for less harmful competitors. There's two sorts of harmful activities:
+–	Activities that harm others or the environment: in these cases activities should either be banned (now or in a forward-looking sense)
+## Justified and Unjustified Wealth
+-	It is important to distinguish between justified and unjustified Wealth
+  -	There is justified wealth and unjustified wealth. Justified wealth consists in wealth that is derived from work, the creation of some product of value (or at least wanted) in society - the provision of goods and services. Unjustified wealth consists in effectively extracting the wealth of others. The wealth is not acquired by the addition of anything valuable to the economy.
+- Land has particular characteristics
+  - The control of land (and scarce resources) allows people to generate wealth, and benefit from the work of others. It is not fair that private landowners are able to privately reserve the return from land because it is a common good.
+-	It is right that citizens get some benefit from common goods
+-	There are multiple advantages to taxing land. Eg hard to avoid/evade, doesn’t disappear when taxed, discourages land banking, encourages productive and efficient use of land, compensates for unearned windfall benefits to landowners.
+
+-	The tax system is overly complex.
+  - A simpler system would increase confidence in the system, make avoidance/evasion more difficult and increase compliance.
+  - Redistribution: Some degree of redistribution of wealth is right and fair.
+  - We redistribute so that people with less can have a fair chance in life.
+  -	A civilised society would not allow people to fall below a certain living standard. It is right to provide a safety net.
+
+# Welfare and Benefits
+- The 'means testing' aspect of benefit provision (which is taking money off people as they get richer) can probably be best integrated into the tax system, both to reduce admin and smooth the benefit-withdrawal rate.
+-	The 'sensitivity to need' aspect needs to be considered too
+-	Housing: Indirect effect of progressive income tax is to flatten demand for housing, allow normal people to afford larger living space.
+-	Disability/Carers should be considered
+-	Work-suitability is needed too.
+# Productive and Unproductive Activity
+We can split activity into two types. 
+-	Activity that is focused on satisfying needs in the present and that which is concerned with accumulating wealth to satisfy needs in the future. Productive activity is that which satisfies genuine needs and/or that which accumulates or protects genuine wealth. We can therefore define productive activity as that which increases wealth in aggregate or satisfies some particular need without harming the needs of others. 
+-	So, that which is productive at an individual level can sometimes be destructive at a national level, similarly those things that are productive at a national level can sometimes be destructive at a global level. In short, we can suggest that a productive activity is that which satisfies genuine needs or accumulate wealth in an aggregate way for a national or global perspective.
+
+
+
+# Other Important Principles
 ## Principles of Transition & Political Feasibility
 
 This book deals with tax reform in two approaches. The first is a 'blank slate' approach: how we would define a tax and welfare system in an ideal world where both efficiency and fairness are achieved easily. 
@@ -312,6 +382,50 @@ Tax is an international matter. Tax is subject to various international agreemen
 
 Alongside our legal responsibilities, Britain is also constrained by other agreements and norms. Britain's closest trading partner is the 'rest of EU', and even with Brexit going ahead as planned, for reasons of geography this will remain our closest trading relationship. This has strong implications on consumption taxes such as VAT. If our taxes are too different from our neighbours, this may cause trouble. **[How]**
 
+
+# Chapgter N: What Could be Taxed?
+
+Types of Assets:
+- Land (residential, government, commercial, industrial, agricultural)
+- Buildings (ditto)
+- Money (cash and bank deposits)
+- Companies (privately owned and shares in companies)
+- Bonds (government and commercial companies’ bonds)
+- Capital goods such as machines, computers, etc.
+- Infrastructure 
+- Rights and permits e.g. patents
+- Consumer durables including cars and house fittings etc.
+
+Types of Transactions:
+- Wages
+- Dividends
+- Purchases
+- Gifts
+- Payments to suppliers
+- Inheritance
+- Purchase of assets e.g. houses and financial assets
+- Physical investment
+- Taxes, 
+- Benefits and welfare
+- Interest payments
+- Compensation payments
+- Transfers between bank accounts of the same person
+
+Types of Physical Commodities
+- Pollution
+- Resources
+- Calorific Value or Food Composition
+
+How do we choose?
+A) Does private value reflect social value? If private value > social value, increase tax until private value=social value 
+B) If after doing this, there is a need for more tax, tax things that are fixed in supply, so that by taxing them, there is no reduction in real wealth. 
+C) Transition to this system by preserving justice i.e. future increases in private wealth above social value should be taxed, but existing asset values should be where possible approximately maintained. 
+
+What should be taxed?
+Financial surpluses (e.g.(net) imports, profits, incomes over some threshold) and luxury expenditures whose demand is insensitive to price. We should tax or redistribute some or all of the surplus of those individuals, companies or geographical areas who are gaining financial assets
+The unearned increment on scarce resources such as valuable urban land and oil: things that are fixed or limited in supply, monopolised (e.g. land, fossil fuels, endangered fish)
+Environmental and health bads i.e. activities that damage our common space (e.g. fossil fuels, other pollution, road congestion, ugly buildings)
+ 
 # Chapter 9: How Does Change Happen?
 
 But how do we change a system like tax? The tax system seems to change through top down directives, through the intervention of the chancellor of the exchequer of the time. This approach means that the tax system often changes with the agenda of 'budget day' announcements. Of course,the secrecy around these announcements is to a degree necessary: if agents know how the tax system is going to change, then they may be able to take steps to avoid the taxes. A better approach would be to conduct a strategic tax review, much in a similar way to the strategic defence review.
@@ -328,8 +442,6 @@ This shows that we need:
 2. Communicating this plan to the decision maker: that's the directing of the horse to water. In terms of directing public response, this would mean communicating the change in ways that people would understand. 
 
 How do we create that narrative? Well, this book is a contribution to it. It's very important to build a narrative that works for different people in society and the different ways that they think about the world. These different ways of thinking about the world are captured well in Clare Graves' theory that human beings act on different 'levels' of consciousness.**[reference]** Each level shares a perspective on the world that is important.
-
-
 
 
 
@@ -446,6 +558,21 @@ The final area is financial taxes. We see all forms of debt as potentially damag
 Finally, we deal with welfare. We propose a citizens’ dividend and an integrated skill development and educational work program. The citizens’ dividend would be universal to UK citizens and at a low level similar to UK benefit levels. The work program would be focused initially on increasing the skills of the unskilled through government paid work experience combined with practical training.
 Overall, this system of measures deals with a major challenges facing our times. It tackles environmental damage, skill shortages, complex tax system, inequality and promotes productive economic activity to improve the UK and its role in the world.
 
+## Summary
+-	Land value tax to prevent house price speculation
+-	a new concept, land value mortgages; 
+-	carbon tax funding a citizen’s dividend,
+-	Other environmental Taxes that ensure polluters pay for damage they cause to others and to the environment
+-	Changes to Income Tax to simplify it deductibility of income tax. Such a system would tackle our critical issues such as housing, environmental impact, inequality
+-	Changes to Corporation Tax so that companies can’t avoid it – by direct taxation of dividends and retained earnings
+-	Financial Taxes to reduce debt, such as UK based lending, and a tax on money balances above some limit
+-	What social security should there be?
+  -	An unconditional per capita payment
+  -	benefits for those who need them (as at present)
+  -	benefits for those who develop or contribute: guaranteed combined work/training
+  -	A an integrated skills development and educational work programme
+  
+By creating a more simple and concrete system, we can also tackle the avoidance and evasion that bedevils the system
 
 
 *\[IV: TRANSITION AND MODELLED EFFECTS\]*
@@ -484,6 +611,9 @@ We started with a sense of what we need a good system to be. Broadly, it needs t
 4. What makes a good welfare system?
 5. How should we tax companies?
 6. How can we prevent international tax avoidance?`r margin_note("Thanks for reading! SJS.")`  
+
+# Scope
+This version of the book should cover the 
 
 
 # Bibliography
