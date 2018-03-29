@@ -21,6 +21,8 @@ options(htmltools.dir.version = FALSE)
 # Chapter 1a: The Operating System of Capitalism
 This is a book about transforming the operating system of the economy so that it better meets the needs of society.
 
+xxxxx
+
 Just like your smartphone might be based on Android or Apple's iOS, so too our economy has an operating system. This operating system can be principled, simple and operate smoothly. Conversely it can be unprincipled, complicated and operate badly. The operating system determines the kind of behaviours that are rewarded and those that are not. This in turn determines what the outcomes of the system will be. In short, the nature of the operating system of capitalism determines whether we live in a fair society that is increasing in prosperity and protecting its environment, or an unfair society that is getting poorer and destroying its environment.
 
 A fundamental part of the economy's operating system is its system of tax and social welfare. Tax is a compulsory payment to government for the provision of public services, and the welfare state ensures that individuals have enough to cover their basic needs. Simply put, tax takes money away from people and the welfare system gives money right back to them. These systems imply a set of financial rights and responsibilities: a social contract as well as a technical system. In theory, when operating correctly, these systems allow for the  discouragement of harmful acts and redistribution of wealth to ensure societal wellbeing, and . However in reality our tax and welfare systems are full of bugs that cause welfare traps, and allow the evasion and avoidance of taxes. They often also fall short of solving the other large problems we face. 
