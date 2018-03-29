@@ -16,6 +16,9 @@ knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
 options(htmltools.dir.version = FALSE)
 ```
 
+# Scope
+This version of the book does not intend to solve all problems.
+
 *\[I: INTRODUCTION\]*
 
 # Chapter 1: The Operating System of Capitalism
@@ -43,7 +46,7 @@ Yet the progress towards this ideal tax system has been painfully slow, and in m
 
 The scope of this book is large. This is because the problems that it tries to solve are also large.  Its overarching purpose is to outline what constitutes a 'good' tax and welfare system. As mentioned in our introduction, this topic has already been explored by a number of economists. It will be our role therefore to review, synthesise, and build on their existing viewpoints. However we argue that the tax and welfare system has consequences outside of the immediate scope of tax and welfare itself, i.e. that there are consequences on a societal scale. We are also interested in exploring these wider outcomes of choices over tax and welfare system design.
 
-We identify five key challenges of the current UK system below. Associated with each of those challenges is a research question. Similarly, every chapter we write will  have a question to which the chapter is a response. The questions below therefore mimic the structure of our book.
+We identify five key challenges of the current UK system below. Associated with each of those challenges is a research question. Similarly, every chapter we write will have a question to which the chapter is a response. The questions below therefore mimic the structure of our book.
 
 1. Inequality: Do the rich get richer? If so, why?
 2. Nature: How do we cooperate over public good provision? Can we design a good policy to tackle climate change?
@@ -161,8 +164,6 @@ Another, perhaps more controversial, kind of fairness concerns *progressivity*. 
 Fairness is also relevant to our discussion of economic rents and land values. When land values increase because of work performed by society as a whole (see the next chapter), by our definition it is fair that all citizens benefit. It would seem unfair for only some people to benefit. Similarly, it would seem unfair if only a few people benefited from the country’s natural resources - resources which were not created by any person, but which form part of the wealth of the nation as a whole. Furthermore, it is often resource *consuming* countries which pay this rent. Coordinated taxes by consuming countries can reduce the market value of resources and thus limit their extraction.
 
 Thus, **beneficial, practical** and **fair** are three general categories which provide us with a framework for assessing any tax or system of taxation. Each covers various elements and includes areas where people may reasonably hold differing opinions.  
-
-
 
 
 # Chapter 4: Social Capitalism: Who is the economy for?
@@ -298,6 +299,44 @@ This shows that we need:
 2. Communicating this plan to the decision maker: that's the directing of the horse to water. In terms of directing public response, this would mean communicating the change in ways that people would understand. 
 
 How do we create that narrative? Well, this book is a contribution to it. It's very important to build a narrative that works for different people in society and the different ways that they think about the world. These different ways of thinking about the world are captured well in Clare Graves' theory that human beings act on different 'levels' of consciousness.**[reference]** Each level shares a perspective on the world that is important.
+
+
+Reform Requirements
+Administrative realities
+-	Existing tax system
+-	Importance of taxes easily calculable
+-	Automatic tax system
+Taxation Theory
+-	Optimal Taxation
+-	Externality Correcting
+Attractiveness of proposals to politicians and voters
+- Specific politician types
+-	Specific policy pathways
+Produce Beneficial Results
+-	Reiterate challenges
+Empirical evidence
+-	Effect of incentives at work
+-	Interaction between work, experience, education and salary
+-	Effect of environmental taxes on damage
+-	Effect of health taxes on health outcomes
+-	Effect of taxes on finance
+Political realities
+-	Interest of voter groups
+-	Folk justice
+-	Interest of powerful groups
+Institutional inertia
+Local knowledge
+-	Legal nature of tax system
+-	Specific problems of UK system tax and economy (regional balances, dysfunctional house prices etc.)
+Macroeconomic situation
+-	Balance of payments, trade deficit
+Feasibility of proposals
+-	Have they being done elsewhere?
+-	Any specific issues in the UK?
+Robustness to changing times
+-	Changing nature of work
+
+
 
 **III: SECTORS**
 
